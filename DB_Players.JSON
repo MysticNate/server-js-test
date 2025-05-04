@@ -1,0 +1,1412 @@
+{
+  "Players": [
+    {
+      "_id": 3,
+      "email": "AvigailPeretz@google.com",
+      "pass": "$2b$10$tr5N6xi7qZIEMkNn2ZasZORV93N.77hb5E0JfJDkwP/wEIdn4aANO",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 971,
+          "buyOutAmount": 849,
+          "gainOrLoss": -122
+        }
+      ]
+    },
+    {
+      "_id": 4,
+      "email": "LeahCohen@google.com",
+      "pass": "$2b$10$1wBIQszFtrc08CdiVs6BreNHkEh1ZPUCK9Wyy4UnUAO23Kjg0kYd6",
+      "lName": "Cohen",
+      "GameStats": [
+        {
+          "buyInAmount": 818,
+          "buyOutAmount": 992,
+          "gainOrLoss": 174
+        }
+      ]
+    },
+    {
+      "_id": 5,
+      "email": "LeahGrossman@google.com",
+      "pass": "$2b$10$XGu9JAJC3glqSf/brHkG9e9l8DGrAmeztoCZBzhlChWjvlPfxYZYK",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 870,
+          "buyOutAmount": 498,
+          "gainOrLoss": -372
+        }
+      ]
+    },
+    {
+      "_id": 6,
+      "email": "LeahCohen@ruppin.com",
+      "pass": "$2b$10$hTj1L9wsHViHCJU/AJsPAO5vhdlTCOI.l.zUEoaSYXDJDM9u64P9.",
+      "fName": "Leah",
+      "lName": "Cohen",
+      "GameStats": [
+        {
+          "buyInAmount": 404,
+          "buyOutAmount": 964,
+          "gainOrLoss": 560
+        }
+      ]
+    },
+    {
+      "_id": 7,
+      "email": "YonatanGoldberg@google.com",
+      "pass": "$2b$10$nP3rqH4c/6QU/P5f9H/x/ONFeBb98NtVe9sxHsUPqo.9mIVM4H7Ru",
+      "fName": "Yonatan",
+      "lName": "Goldberg",
+      "GameStats": [
+        {
+          "buyInAmount": 455,
+          "buyOutAmount": 284,
+          "gainOrLoss": -171
+        }
+      ]
+    },
+    {
+      "_id": 8,
+      "email": "MosheBen-David@gmail.com",
+      "pass": "$2b$10$JKds1DGl.ZXE.HpAs/BHbO6MWIJpV21z2wOCck8xdW/KXRcMnNAnu",
+      "fName": "Moshe",
+      "lName": "Ben-David",
+      "GameStats": [
+        {
+          "buyInAmount": 636,
+          "buyOutAmount": 312,
+          "gainOrLoss": -324
+        }
+      ]
+    },
+    {
+      "_id": 9,
+      "email": "SarahWeiss@google.com",
+      "pass": "$2b$10$STrbmVAhgVmGXBJJCchZn.eJgHo4K0CR9BH3nhR/Rg.rxARPpHjKO",
+      "fName": "Sarah",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 17,
+          "buyOutAmount": 737,
+          "gainOrLoss": 720
+        }
+      ]
+    },
+    {
+      "_id": 10,
+      "email": "YitzhakMizrahi@google.com",
+      "pass": "$2b$10$j8wPXzZzwxKKUH5JeKdJKeM/qqmKMZxgj1rfEloRUqDo1xKdbc2Hq",
+      "fName": "Yitzhak",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 766,
+          "buyOutAmount": 49,
+          "gainOrLoss": -717
+        }
+      ]
+    },
+    {
+      "_id": 11,
+      "email": "ShmuelKatz@ruppin.com",
+      "pass": "$2b$10$fF5//ZDIKfSjeOIBtqLf/OD9Isa1.tQGMnO4qQaAOwmhu2nvQZluG",
+      "fName": "Shmuel",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 436,
+          "buyOutAmount": 483,
+          "gainOrLoss": 47
+        }
+      ]
+    },
+    {
+      "_id": 14,
+      "email": "ShmuelBen-David@ruppin.com",
+      "pass": "$2b$10$3Ew5TlQfzF1kdaF2SsftN./7.iAY5JNWQ5KxZGnTga23sTmogXeya",
+      "fName": "Shmuel",
+      "lName": "Ben-David",
+      "GameStats": [
+        {
+          "buyInAmount": 562,
+          "buyOutAmount": 746,
+          "gainOrLoss": 184
+        }
+      ]
+    },
+    {
+      "_id": 15,
+      "email": "MosheWeiss@ruppin.com",
+      "pass": "$2b$10$UZfvd.S4bFdSyoZfZfAi/O25HBuMMo4L4itfGBCHTa2B.MFe9wExG",
+      "fName": "Moshe",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 343,
+          "buyOutAmount": 436,
+          "gainOrLoss": 93
+        }
+      ]
+    },
+    {
+      "_id": 16,
+      "email": "DavidLevi@ruppin.com",
+      "pass": "$2b$10$MNtwvLbm.vTVZmpoNwcY2eRNGDp3rcuNyVGXU3gyCg5pdmzqr8ZYm",
+      "fName": "David",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 729,
+          "buyOutAmount": 438,
+          "gainOrLoss": -291
+        }
+      ]
+    },
+    {
+      "_id": 17,
+      "email": "YitzhakLevi@gmail.com",
+      "pass": "$2b$10$NSylkJj6YKnefeU/p9lsbOVOaNfdZym7CmOT7qW7lGHYxUG1Ek5pm",
+      "fName": "Yitzhak",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 610,
+          "buyOutAmount": 997,
+          "gainOrLoss": 387
+        }
+      ]
+    },
+    {
+      "_id": 18,
+      "email": "YitzhakFriedman@google.com",
+      "pass": "$2b$10$pVkPT2281eGh3oVPrBnGHOmip5SmU8SSMxUVVVV0g9aA3qaIPSxm6",
+      "fName": "Yitzhak",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 126,
+          "buyOutAmount": 440,
+          "gainOrLoss": 314
+        }
+      ]
+    },
+    {
+      "_id": 19,
+      "email": "YitzhakPeretz@google.com",
+      "pass": "$2b$10$iR9eVqbaOE4uU3qtTI/aF.Knthd9o4LJlaqL4l3tO8wtSdCXqe5sC",
+      "fName": "Yitzhak",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 87,
+          "buyOutAmount": 152,
+          "gainOrLoss": 65
+        }
+      ]
+    },
+    {
+      "_id": 20,
+      "email": "YonatanCohen@gmail.com",
+      "pass": "$2b$10$rJaAYH3t6imKsgeycpubXuS0Dpx9Kt7tTrURbaO7EcGPTNaMgn6ZO",
+      "fName": "Yonatan",
+      "lName": "Cohen",
+      "GameStats": [
+        {
+          "buyInAmount": 442,
+          "buyOutAmount": 758,
+          "gainOrLoss": 316
+        }
+      ]
+    },
+    {
+      "_id": 21,
+      "email": "AvigailLevi@google.com",
+      "pass": "$2b$10$nXMF3oDp0c4fvtulSHIhXezPeex6f.qPRgr7rXRgdKvbvRrOmbRJ.",
+      "fName": "Avigail",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 888,
+          "buyOutAmount": 592,
+          "gainOrLoss": -296
+        }
+      ]
+    },
+    {
+      "_id": 22,
+      "email": "ShmuelMizrahi@google.com",
+      "pass": "$2b$10$G/rihtV4Z9DEiaW8MUUeYOfBStTnIBAv05fDjydYlvhahu3ZnXMT6",
+      "fName": "Shmuel",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 935,
+          "buyOutAmount": 242,
+          "gainOrLoss": -693
+        }
+      ]
+    },
+    {
+      "_id": 23,
+      "email": "YitzhakGoldberg@ruppin.com",
+      "pass": "$2b$10$tmvMyyAAc3i1hym0i24ZR.XpBM7AoFZkpt06K1Tg0qT8e/c80xSxm",
+      "fName": "Yitzhak",
+      "lName": "Goldberg",
+      "GameStats": [
+        {
+          "buyInAmount": 918,
+          "buyOutAmount": 51,
+          "gainOrLoss": -867
+        }
+      ]
+    },
+    {
+      "_id": 24,
+      "email": "ShmuelFriedman@google.com",
+      "pass": "$2b$10$t1zkiF1sudl1R0imq/fhmuqfCSu/EeK/eG59mild42KfEK9tai/7G",
+      "fName": "Shmuel",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 531,
+          "buyOutAmount": 779,
+          "gainOrLoss": 248
+        }
+      ]
+    },
+    {
+      "_id": 25,
+      "email": "RivkaKatz@gmail.com",
+      "pass": "$2b$10$hAAW7I/3IOZdjrgzwi5F7ud.LmdjhxK8ctE5wxkaPXQ3WPYGBkbc2",
+      "fName": "Rivka",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 952,
+          "buyOutAmount": 725,
+          "gainOrLoss": -227
+        }
+      ]
+    },
+    {
+      "_id": 26,
+      "email": "YonatanFriedman@google.com",
+      "pass": "$2b$10$kPfR17mfbt7hXLMNPllgt..XXfRglMGfz/v6MmEV7AzHUMuWQkUF.",
+      "fName": "Yonatan",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 273,
+          "buyOutAmount": 571,
+          "gainOrLoss": 298
+        }
+      ]
+    },
+    {
+      "_id": 27,
+      "email": "ShmuelKatz@gmail.com",
+      "pass": "$2b$10$J0Q6SeY2U28VEkaV9uiq0.M9hzMXXu3I7X48v3cJlaEaPtOk9nMhG",
+      "fName": "Shmuel",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 95,
+          "buyOutAmount": 956,
+          "gainOrLoss": 861
+        }
+      ]
+    },
+    {
+      "_id": 28,
+      "email": "ShmuelMizrahi@ruppin.com",
+      "pass": "$2b$10$6zLEQfjJlhVTlqOSfARMBuOABz0Y8Iu38YyvBTYp5J56kr07ICAfu",
+      "fName": "Shmuel",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 821,
+          "buyOutAmount": 501,
+          "gainOrLoss": -320
+        }
+      ]
+    },
+    {
+      "_id": 29,
+      "email": "YitzhakGrossman@ruppin.com",
+      "pass": "$2b$10$KIyeAefBz9u5nkH5tbRVBOYw3nliqRLhFTrT7dhdpkqQCG77PJzrm",
+      "fName": "Yitzhak",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 931,
+          "buyOutAmount": 756,
+          "gainOrLoss": -175
+        }
+      ]
+    },
+    {
+      "_id": 30,
+      "email": "YonatanGoldberg@google.com",
+      "pass": "$2b$10$Vcoasu7ieR1BK6Ksx2dFMerhTUD75IM6z/8kSIdN5pBBBD5YezB9m",
+      "fName": "Yonatan",
+      "lName": "Goldberg",
+      "GameStats": [
+        {
+          "buyInAmount": 696,
+          "buyOutAmount": 550,
+          "gainOrLoss": -146
+        }
+      ]
+    },
+    {
+      "_id": 31,
+      "email": "LeahKatz@ruppin.com",
+      "pass": "$2b$10$jOV60UoXE7Rnu4lAilyFSuFJB9K/7o7qnkXryAjgG9hWwKpBibIbS",
+      "fName": "Leah",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 728,
+          "buyOutAmount": 912,
+          "gainOrLoss": 184
+        }
+      ]
+    },
+    {
+      "_id": 32,
+      "email": "DavidFriedman@ruppin.com",
+      "pass": "$2b$10$kINFrHvnitLARZED21ECfuI13uOGFYkgtNG/O42NDvACNLdedSxXK",
+      "fName": "David",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 761,
+          "buyOutAmount": 867,
+          "gainOrLoss": 106
+        }
+      ]
+    },
+    {
+      "_id": 33,
+      "email": "ShmuelWeiss@ruppin.com",
+      "pass": "$2b$10$EzqmTTQPd6eVksrB5ZEJUOOrS8b7d5aRjDg2J61.cR2UUI9gfXQqi",
+      "fName": "Shmuel",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 765,
+          "buyOutAmount": 457,
+          "gainOrLoss": -308
+        }
+      ]
+    },
+    {
+      "_id": 34,
+      "email": "RivkaWeiss@ruppin.com",
+      "pass": "$2b$10$BU8BljaoZxIzDVycKPz5PuwkuxuYjrWOqhpyycCp/4pxYJKNJfzmq",
+      "fName": "Rivka",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 474,
+          "buyOutAmount": 155,
+          "gainOrLoss": -319
+        }
+      ]
+    },
+    {
+      "_id": 35,
+      "email": "EstherWeiss@google.com",
+      "pass": "$2b$10$IGLpU994LLh79wjS2S5lMu.vD85bOb79WBdG4wTDS6lt7zwauIe62",
+      "fName": "Esther",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 86,
+          "buyOutAmount": 944,
+          "gainOrLoss": 858
+        }
+      ]
+    },
+    {
+      "_id": 36,
+      "email": "LeahBen-David@google.com",
+      "pass": "$2b$10$DCp0IxDXKNk8j7FwwLSEuuD5Ve7wlC.h2WoUBb1PcXIpMM.01P9yG",
+      "fName": "Leah",
+      "lName": "Ben-David",
+      "GameStats": [
+        {
+          "buyInAmount": 210,
+          "buyOutAmount": 952,
+          "gainOrLoss": 742
+        }
+      ]
+    },
+    {
+      "_id": 37,
+      "email": "SarahLevi@ruppin.com",
+      "pass": "$2b$10$EqcqmiVz6aPXLO6t.tR.3OOhzNqMRO5rrpeXzUZVZqsdZ/ttnDeEW",
+      "fName": "Sarah",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 611,
+          "buyOutAmount": 405,
+          "gainOrLoss": -206
+        }
+      ]
+    },
+    {
+      "_id": 38,
+      "email": "EstherPeretz@gmail.com",
+      "pass": "$2b$10$oyjrIn5iIJlGQ2yBo0CD.u5QdZ4eI27bqwxVJMhOye9JjnQxyLGka",
+      "fName": "Esther",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 3,
+          "buyOutAmount": 291,
+          "gainOrLoss": 288
+        }
+      ]
+    },
+    {
+      "_id": 39,
+      "email": "YonatanLevi@google.com",
+      "pass": "$2b$10$JxAf77BsC/ujUNpCJBLGDuHBOnxHQBh62o.CvK6Xcbfbg9YWsM14q",
+      "fName": "Yonatan",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 807,
+          "buyOutAmount": 450,
+          "gainOrLoss": -357
+        }
+      ]
+    },
+    {
+      "_id": 40,
+      "email": "MosheLevi@google.com",
+      "pass": "$2b$10$JkN8XFSsoPW3om6.IM5AcuAcHKCKMq1l9XJgGIjctdDkrput5sGHC",
+      "fName": "Moshe",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 328,
+          "buyOutAmount": 284,
+          "gainOrLoss": -44
+        }
+      ]
+    },
+    {
+      "_id": 41,
+      "email": "DavidLevi@ruppin.com",
+      "pass": "$2b$10$lD0fwVxG6yJPXnUozR6pJ.R7AzRZVFQ625jUDOtSr.cpYOvd7HFaC",
+      "fName": "David",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 859,
+          "buyOutAmount": 445,
+          "gainOrLoss": -414
+        }
+      ]
+    },
+    {
+      "_id": 42,
+      "email": "SarahKatz@ruppin.com",
+      "pass": "$2b$10$1feMNExAaz0r/sxzFZCHDOQKGeLOUr72R6Kh4Mav7a3KVZsoCO6Zi",
+      "fName": "Sarah",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 21,
+          "buyOutAmount": 932,
+          "gainOrLoss": 911
+        }
+      ]
+    },
+    {
+      "_id": 43,
+      "email": "SarahGrossman@gmail.com",
+      "pass": "$2b$10$RIp4LBFouPqr82s1pIk06uz9APDAHIj6b5p7EFZvoBWKaUCdAYj1i",
+      "fName": "Sarah",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 270,
+          "buyOutAmount": 177,
+          "gainOrLoss": -93
+        }
+      ]
+    },
+    {
+      "_id": 44,
+      "email": "ShmuelKatz@ruppin.com",
+      "pass": "$2b$10$74RbI.SnPO/tLuvupThDAOExC4i1JZIAIQa.oDdwmGnR55FQY4j3S",
+      "fName": "Shmuel",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 678,
+          "buyOutAmount": 890,
+          "gainOrLoss": 212
+        }
+      ]
+    },
+    {
+      "_id": 45,
+      "email": "MosheWeiss@google.com",
+      "pass": "$2b$10$BhMRv5GPML/9kivtr9747e87/GdvwF17ORtyl4pu8D5otyUEbhygC",
+      "fName": "Moshe",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 353,
+          "buyOutAmount": 328,
+          "gainOrLoss": -25
+        }
+      ]
+    },
+    {
+      "_id": 46,
+      "email": "EstherFriedman@google.com",
+      "pass": "$2b$10$ScpnrdcxlPwwhrhgGmrpqO2uIW.pHJp2t5YXqBftBC747aBCWVIeu",
+      "fName": "Esther",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 423,
+          "buyOutAmount": 465,
+          "gainOrLoss": 42
+        }
+      ]
+    },
+    {
+      "_id": 47,
+      "email": "DavidKatz@gmail.com",
+      "pass": "$2b$10$hjSTF2SBrBQGuSciv.N1y.J3MB3PN6swS5SjJjz3rjmtDo7CC9QmW",
+      "fName": "David",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 888,
+          "buyOutAmount": 290,
+          "gainOrLoss": -598
+        }
+      ]
+    },
+    {
+      "_id": 48,
+      "email": "ShmuelFriedman@google.com",
+      "pass": "$2b$10$Fk0hWaTptOwF8X.3ny8f1.Ve0rW.YzT8GHjJXFuMV7F6yJGGp32FK",
+      "fName": "Shmuel",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 595,
+          "buyOutAmount": 965,
+          "gainOrLoss": 370
+        }
+      ]
+    },
+    {
+      "_id": 49,
+      "email": "YitzhakGrossman@ruppin.com",
+      "pass": "$2b$10$JVTKEPEBD5hMnBCqdrUGKulbSuI0X.FFrY7d7JCBFz/a5zdJBd4ti",
+      "fName": "Yitzhak",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 854,
+          "buyOutAmount": 50,
+          "gainOrLoss": -804
+        }
+      ]
+    },
+    {
+      "_id": 50,
+      "email": "YonatanPeretz@gmail.com",
+      "pass": "$2b$10$mzQ9trz5LPnVNl3qMOLUJOdqw/1QW6pIbwhAQd6uyZYrPRJ/dhfsq",
+      "fName": "Yonatan",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 500,
+          "buyOutAmount": 2,
+          "gainOrLoss": -498
+        }
+      ]
+    },
+    {
+      "_id": 51,
+      "email": "LeahMizrahi@ruppin.com",
+      "pass": "$2b$10$CX37sgHFv.dZOCT.zYSqwOL39h92Gg56fFcvt/74tIr0H7sV9wnBC",
+      "fName": "Leah",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 803,
+          "buyOutAmount": 333,
+          "gainOrLoss": -470
+        }
+      ]
+    },
+    {
+      "_id": 52,
+      "email": "YitzhakFriedman@ruppin.com",
+      "pass": "$2b$10$OSq3Mo/48d6PHOKVMU3p7eQB8sR/qhixBIGfMLCRcayMHsjf.PMPK",
+      "fName": "Yitzhak",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 943,
+          "buyOutAmount": 106,
+          "gainOrLoss": -837
+        }
+      ]
+    },
+    {
+      "_id": 53,
+      "email": "DavidFriedman@ruppin.com",
+      "pass": "$2b$10$WiOALRjffePH.4S2WQQLseSdRMPfeaC2IA9CC8DjB7BAAyF/Id.qi",
+      "fName": "David",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 441,
+          "buyOutAmount": 118,
+          "gainOrLoss": -323
+        }
+      ]
+    },
+    {
+      "_id": 54,
+      "email": "ShmuelLevi@google.com",
+      "pass": "$2b$10$MR9zPN6OWf9ZwUKgQtANQ.x2AdksOfzAassOqsffn5P7AQag/9NmS",
+      "fName": "Shmuel",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 376,
+          "buyOutAmount": 499,
+          "gainOrLoss": 123
+        }
+      ]
+    },
+    {
+      "_id": 55,
+      "email": "EstherWeiss@ruppin.com",
+      "pass": "$2b$10$t1vNx9gy3xFKVAkTZ.wHQeLk7F5Jt4jnvVClxaAakPsuQUtYHOY/2",
+      "fName": "Esther",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 5,
+          "buyOutAmount": 490,
+          "gainOrLoss": 485
+        }
+      ]
+    },
+    {
+      "_id": 56,
+      "email": "LeahKatz@google.com",
+      "pass": "$2b$10$aYiLWBn1AuY8ZpAQL.Ks4e9ysTqlTzLiNlqnlEvEGqN72V4MXHjI2",
+      "fName": "Leah",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 274,
+          "buyOutAmount": 498,
+          "gainOrLoss": 224
+        }
+      ]
+    },
+    {
+      "_id": 57,
+      "email": "MoshePeretz@google.com",
+      "pass": "$2b$10$I4WQKoZ3Uhi/mGRi7VXcOOaDVI6q2iNM67KbSxIUyOzIeNVLxVUhK",
+      "fName": "Moshe",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 948,
+          "buyOutAmount": 501,
+          "gainOrLoss": -447
+        }
+      ]
+    },
+    {
+      "_id": 58,
+      "email": "ShmuelPeretz@gmail.com",
+      "pass": "$2b$10$QR/T7ThamCvX1Uwd53RYre4rf.Zdu4gDSxz7oVk7ifmCE.pzTjjVW",
+      "fName": "Shmuel",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 628,
+          "buyOutAmount": 269,
+          "gainOrLoss": -359
+        }
+      ]
+    },
+    {
+      "_id": 59,
+      "email": "MosheFriedman@google.com",
+      "pass": "$2b$10$opLY/wroWe8.JkefAneTYurMUDNiylS7U310XrKoD3oEdkA8KYm.i",
+      "fName": "Moshe",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 126,
+          "buyOutAmount": 121,
+          "gainOrLoss": -5
+        }
+      ]
+    },
+    {
+      "_id": 60,
+      "email": "MosheLevi@ruppin.com",
+      "pass": "$2b$10$RydLai.uwMO1WTwBDKEVEO97VrL8zQzHjeaPNGIuLN2/cOUqYuyea",
+      "fName": "Moshe",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 370,
+          "buyOutAmount": 269,
+          "gainOrLoss": -101
+        }
+      ]
+    },
+    {
+      "_id": 61,
+      "email": "MosheGoldberg@ruppin.com",
+      "pass": "$2b$10$FS/UHbmTDclaPKc6Hb6vVu7h1OZmCxtI5PgtTVcs8jDYzy4Nky9sm",
+      "fName": "Moshe",
+      "lName": "Goldberg",
+      "GameStats": [
+        {
+          "buyInAmount": 194,
+          "buyOutAmount": 270,
+          "gainOrLoss": 76
+        }
+      ]
+    },
+    {
+      "_id": 62,
+      "email": "LeahMizrahi@google.com",
+      "pass": "$2b$10$vl65LPTbPwWz7AWTGIdMTu/gyL9GRWA2ezY4n463r9rBOXLvu2sbu",
+      "fName": "Leah",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 189,
+          "buyOutAmount": 582,
+          "gainOrLoss": 393
+        }
+      ]
+    },
+    {
+      "_id": 63,
+      "email": "YonatanGrossman@google.com",
+      "pass": "$2b$10$tNf7WhZ3Ys45kK4897UoXuEgen9PWQhBuH/Eti7XSHA6JlH7oJubS",
+      "fName": "Yonatan",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 228,
+          "buyOutAmount": 879,
+          "gainOrLoss": 651
+        }
+      ]
+    },
+    {
+      "_id": 64,
+      "email": "RivkaGrossman@google.com",
+      "pass": "$2b$10$pZQEixAw4WVI/i6OB2wO6OqnxdrjWZvBVUqoON5cwLtBIkW7f9pOO",
+      "fName": "Rivka",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 428,
+          "buyOutAmount": 705,
+          "gainOrLoss": 277
+        }
+      ]
+    },
+    {
+      "_id": 65,
+      "email": "AvigailMizrahi@gmail.com",
+      "pass": "$2b$10$WC9lusmaomcjruECGqfpq.czA9ozrRSYQEUAyJcxQjLRbzwjsr/B.",
+      "fName": "Avigail",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 975,
+          "buyOutAmount": 151,
+          "gainOrLoss": -824
+        }
+      ]
+    },
+    {
+      "_id": 66,
+      "email": "MosheWeiss@google.com",
+      "pass": "$2b$10$QHwpQywCIWz6RDiYSndAGe5B.gP3OwpwnPm3..b3qWbwKv/O3Pjwa",
+      "fName": "Moshe",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 820,
+          "buyOutAmount": 698,
+          "gainOrLoss": -122
+        }
+      ]
+    },
+    {
+      "_id": 67,
+      "email": "ShmuelWeiss@gmail.com",
+      "pass": "$2b$10$J7.GTDc1OYszNFkODWp/k.FomcePribsycOQugt1l1GRaDq9v4N.e",
+      "fName": "Shmuel",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 428,
+          "buyOutAmount": 312,
+          "gainOrLoss": -116
+        }
+      ]
+    },
+    {
+      "_id": 68,
+      "email": "YitzhakFriedman@google.com",
+      "pass": "$2b$10$lC7aIFcsTCYJQEZY/yDdv.tDd3qzR9U08OZcAtA5cwRhAGj.7h3UC",
+      "fName": "Yitzhak",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 854,
+          "buyOutAmount": 258,
+          "gainOrLoss": -596
+        }
+      ]
+    },
+    {
+      "_id": 69,
+      "email": "RivkaGrossman@ruppin.com",
+      "pass": "$2b$10$0lkc9nabNVTv/MCl4LY8BOhZOpqFKFk6.XtE/GDBp8ie1t7cuUjea",
+      "fName": "Rivka",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 658,
+          "buyOutAmount": 20,
+          "gainOrLoss": -638
+        }
+      ]
+    },
+    {
+      "_id": 70,
+      "email": "MosheWeiss@google.com",
+      "pass": "$2b$10$bEMgpgZYH.CiL/SgArFAY.dm8VjSR0JsiZnNoK1bV9pK8v84osUFO",
+      "fName": "Moshe",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 124,
+          "buyOutAmount": 212,
+          "gainOrLoss": 88
+        }
+      ]
+    },
+    {
+      "_id": 71,
+      "email": "RivkaWeiss@ruppin.com",
+      "pass": "$2b$10$5iCzQrblYkibQollWRGYj.od2shIDqmfwzEQwWdF6V1.8s9RfrWVy",
+      "fName": "Rivka",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 583,
+          "buyOutAmount": 574,
+          "gainOrLoss": -9
+        }
+      ]
+    },
+    {
+      "_id": 72,
+      "email": "DavidBen-David@gmail.com",
+      "pass": "$2b$10$qH.0o7QYfeZyYzJRf6Ejvef8ZDIPFJ20/qPGX4/zYJdNmtSNbcH6S",
+      "fName": "David",
+      "lName": "Ben-David",
+      "GameStats": [
+        {
+          "buyInAmount": 653,
+          "buyOutAmount": 485,
+          "gainOrLoss": -168
+        }
+      ]
+    },
+    {
+      "_id": 73,
+      "email": "ShmuelLevi@ruppin.com",
+      "pass": "$2b$10$g7GaTl627MCFYlV05n/c4OxtyER9y8gXFidGIMVuMKJVQrCK4caYi",
+      "fName": "Shmuel",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 34,
+          "buyOutAmount": 349,
+          "gainOrLoss": 315
+        }
+      ]
+    },
+    {
+      "_id": 74,
+      "email": "MosheCohen@gmail.com",
+      "pass": "$2b$10$ub0wYZZWafUfmuXyRYnQwOiYlQAx6LRvrZFXpLPjdn3q.PLiDLKNi",
+      "fName": "Moshe",
+      "lName": "Cohen",
+      "GameStats": [
+        {
+          "buyInAmount": 973,
+          "buyOutAmount": 905,
+          "gainOrLoss": -68
+        }
+      ]
+    },
+    {
+      "_id": 75,
+      "email": "MosheGrossman@ruppin.com",
+      "pass": "$2b$10$qUHtuNLfI.7bdn16BBGRFOh9txIqFasdDZqrHzoRNKqlxJVaDq5NO",
+      "fName": "Moshe",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 468,
+          "buyOutAmount": 749,
+          "gainOrLoss": 281
+        }
+      ]
+    },
+    {
+      "_id": 76,
+      "email": "AvigailGrossman@google.com",
+      "pass": "$2b$10$bRArBKFAUQcECDZ9.p5qyuGjCPU9d4mTzKL4r8nPReivlRB0UNN2m",
+      "fName": "Avigail",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 830,
+          "buyOutAmount": 38,
+          "gainOrLoss": -792
+        }
+      ]
+    },
+    {
+      "_id": 77,
+      "email": "DavidPeretz@ruppin.com",
+      "pass": "$2b$10$Zf9R6FDSUfZ70jibXb/hNux5sB8Y9ByUg0MuJNZHwh8BPOLvb..VG",
+      "fName": "David",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 294,
+          "buyOutAmount": 284,
+          "gainOrLoss": -10
+        }
+      ]
+    },
+    {
+      "_id": 78,
+      "email": "LeahLevi@ruppin.com",
+      "pass": "$2b$10$E1wtMxnkzr14MDCbCMZ1YeKnQuS4qQmHgT4RDv9sy.HAbGRKkP/Mi",
+      "fName": "Leah",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 122,
+          "buyOutAmount": 885,
+          "gainOrLoss": 763
+        }
+      ]
+    },
+    {
+      "_id": 79,
+      "email": "DavidFriedman@gmail.com",
+      "pass": "$2b$10$3upft7nrt7OV5qhw1b.8HeJq0q35J7z2V8jkH8Wd7AzOZx0EXzRzC",
+      "fName": "David",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 13,
+          "buyOutAmount": 321,
+          "gainOrLoss": 308
+        }
+      ]
+    },
+    {
+      "_id": 80,
+      "email": "YonatanGoldberg@google.com",
+      "pass": "$2b$10$MYkIR0WnhVseA96avh7PIeNbn07O..XbM1SWn0OJXKbyNJ.AD8pCu",
+      "fName": "Yonatan",
+      "lName": "Goldberg",
+      "GameStats": [
+        {
+          "buyInAmount": 111,
+          "buyOutAmount": 207,
+          "gainOrLoss": 96
+        }
+      ]
+    },
+    {
+      "_id": 81,
+      "email": "YonatanPeretz@google.com",
+      "pass": "$2b$10$WdXh9xuwHdw7r3yufNTYMeioPMIO55FYtH9GgVNjTGBO6phHRibxC",
+      "fName": "Yonatan",
+      "lName": "Peretz",
+      "GameStats": [
+        {
+          "buyInAmount": 629,
+          "buyOutAmount": 374,
+          "gainOrLoss": -255
+        }
+      ]
+    },
+    {
+      "_id": 82,
+      "email": "ShmuelGrossman@ruppin.com",
+      "pass": "$2b$10$RYEz2lnZerEtUOfdtLt3WeFNcaJVjcWpHFiAnqQHdJohx/RbvASNO",
+      "fName": "Shmuel",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 4,
+          "buyOutAmount": 779,
+          "gainOrLoss": 775
+        }
+      ]
+    },
+    {
+      "_id": 83,
+      "email": "MosheKatz@google.com",
+      "pass": "$2b$10$m8IpgkUIve8WsNheXTVmf.wEft28HgT84wu43rheD6AvOOsbXqRwy",
+      "fName": "Moshe",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 248,
+          "buyOutAmount": 365,
+          "gainOrLoss": 117
+        }
+      ]
+    },
+    {
+      "_id": 84,
+      "email": "EstherFriedman@ruppin.com",
+      "pass": "$2b$10$1vPERerdgRG.8rYdm3oUaumlO3cW1aEKyHxR46rW1LA8AewbVfod.",
+      "fName": "Esther",
+      "lName": "Friedman",
+      "GameStats": [
+        {
+          "buyInAmount": 873,
+          "buyOutAmount": 44,
+          "gainOrLoss": -829
+        }
+      ]
+    },
+    {
+      "_id": 85,
+      "email": "EstherWeiss@ruppin.com",
+      "pass": "$2b$10$HRNTS5z3aJ8Hdq1.qwbbdOGLID46LN7ep3LrOLJGc0AfjNTvMpDM6",
+      "fName": "Esther",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 884,
+          "buyOutAmount": 603,
+          "gainOrLoss": -281
+        }
+      ]
+    },
+    {
+      "_id": 86,
+      "email": "MosheWeiss@gmail.com",
+      "pass": "$2b$10$kGlnsi1WKWbQ8vqI2PhwIeM.cLJgk74L3MFMixXOUNtZKKYpX5FGG",
+      "fName": "Moshe",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 679,
+          "buyOutAmount": 19,
+          "gainOrLoss": -660
+        }
+      ]
+    },
+    {
+      "_id": 87,
+      "email": "YitzhakLevi@gmail.com",
+      "pass": "$2b$10$M7uIX7yYOgO21TppyZlvde2bO9q7YPSvNk2KpESJX7HDzKHo8lY1q",
+      "fName": "Yitzhak",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 631,
+          "buyOutAmount": 881,
+          "gainOrLoss": 250
+        }
+      ]
+    },
+    {
+      "_id": 88,
+      "email": "AvigailLevi@gmail.com",
+      "pass": "$2b$10$KPD6ylRC5804WBx.7mi76uEnMVPPE9RAAWXnTJJv5BTITH5kcBP/m",
+      "fName": "Avigail",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 632,
+          "buyOutAmount": 67,
+          "gainOrLoss": -565
+        }
+      ]
+    },
+    {
+      "_id": 89,
+      "email": "YitzhakWeiss@google.com",
+      "pass": "$2b$10$B34wsOtTrdS5/6JPzPRBkuHy20.S7cfFHmNNXID8Hs9Qlsm0Xh9zi",
+      "fName": "Yitzhak",
+      "lName": "Weiss",
+      "GameStats": [
+        {
+          "buyInAmount": 384,
+          "buyOutAmount": 731,
+          "gainOrLoss": 347
+        }
+      ]
+    },
+    {
+      "_id": 90,
+      "email": "MosheCohen@google.com",
+      "pass": "$2b$10$hpEImyLUlBWPdKmh0iRfSOk2YRqjvfkpviG6jJ/sPp4I5tEb6yQhe",
+      "fName": "Moshe",
+      "lName": "Cohen",
+      "GameStats": [
+        {
+          "buyInAmount": 961,
+          "buyOutAmount": 260,
+          "gainOrLoss": -701
+        }
+      ]
+    },
+    {
+      "_id": 91,
+      "email": "AvigailMizrahi@google.com",
+      "pass": "$2b$10$FY4I4jv5mJr5f8sCF.E85.CYzNSCqkYo.4ybmDNNLO5iePJuBtDU2",
+      "fName": "Avigail",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 412,
+          "buyOutAmount": 273,
+          "gainOrLoss": -139
+        }
+      ]
+    },
+    {
+      "_id": 92,
+      "email": "YitzhakLevi@google.com",
+      "pass": "$2b$10$wLFXNebAQ.H4BEDeMk84z.CPKK4rEMDZqtdP8wCeo4B6DHerBBGSW",
+      "fName": "Yitzhak",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 390,
+          "buyOutAmount": 123,
+          "gainOrLoss": -267
+        }
+      ]
+    },
+    {
+      "_id": 93,
+      "email": "YitzhakGrossman@ruppin.com",
+      "pass": "$2b$10$51Ey/eJ3T/Oaxf2Onl6XFOTM9qztmPluKNqlgfh8melEQfHc2wIKK",
+      "fName": "Yitzhak",
+      "lName": "Grossman",
+      "GameStats": [
+        {
+          "buyInAmount": 890,
+          "buyOutAmount": 222,
+          "gainOrLoss": -668
+        }
+      ]
+    },
+    {
+      "_id": 94,
+      "email": "SarahCohen@gmail.com",
+      "pass": "$2b$10$gabjtaMe8kDkzZbUOlVE/umgbyFtieumxNvaoeqy/elyKf4mRICBi",
+      "fName": "Sarah",
+      "lName": "Cohen",
+      "GameStats": [
+        {
+          "buyInAmount": 657,
+          "buyOutAmount": 376,
+          "gainOrLoss": -281
+        }
+      ]
+    },
+    {
+      "_id": 95,
+      "email": "AvigailLevi@google.com",
+      "pass": "$2b$10$q2uYxhQmG8B3BGqEyCqvueR9q/9zAe1fUYkVzqBo0193ZiyxmBSq.",
+      "fName": "Avigail",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 372,
+          "buyOutAmount": 923,
+          "gainOrLoss": 551
+        }
+      ]
+    },
+    {
+      "_id": 96,
+      "email": "YitzhakGoldberg@gmail.com",
+      "pass": "$2b$10$f0XlrtovCM.9sAefKqhFhe.IMDapLQpxnbFYZRb6C6vM0vONKJx6i",
+      "fName": "Yitzhak",
+      "lName": "Goldberg",
+      "GameStats": [
+        {
+          "buyInAmount": 475,
+          "buyOutAmount": 515,
+          "gainOrLoss": 40
+        }
+      ]
+    },
+    {
+      "_id": 97,
+      "email": "SarahBen-David@google.com",
+      "pass": "$2b$10$G4XLX8rilhdgorV4vMys7.xGohjD5eJvHPPBDNdDHGw9S0HmsS1Vu",
+      "fName": "Sarah",
+      "lName": "Ben-David",
+      "GameStats": [
+        {
+          "buyInAmount": 50,
+          "buyOutAmount": 314,
+          "gainOrLoss": 264
+        }
+      ]
+    },
+    {
+      "_id": 98,
+      "email": "RivkaKatz@ruppin.com",
+      "pass": "$2b$10$tgiLMulpx7lOE.ZlYT8x2OMF1KUJqTVI4bdq3s3ISvcCsv/0p12zO",
+      "fName": "Rivka",
+      "lName": "Katz",
+      "GameStats": [
+        {
+          "buyInAmount": 61,
+          "buyOutAmount": 797,
+          "gainOrLoss": 736
+        }
+      ]
+    },
+    {
+      "_id": 99,
+      "email": "YitzhakMizrahi@google.com",
+      "pass": "$2b$10$aHorlDNYKz3Veu/AWi4mHOIycrwiDK25c8fx13n2b2pAEqJ5mrvSa",
+      "fName": "Yitzhak",
+      "lName": "Mizrahi",
+      "GameStats": [
+        {
+          "buyInAmount": 976,
+          "buyOutAmount": 196,
+          "gainOrLoss": -780
+        }
+      ]
+    },
+    {
+      "_id": 100,
+      "email": "LeahLevi@google.com",
+      "pass": "$2b$10$cQRfCE3jIrNHytkC7pNs2OL0fnt7lOG/5KA8qSlN8a70yiQJHMjq.",
+      "fName": "Leah",
+      "lName": "Levi",
+      "GameStats": [
+        {
+          "buyInAmount": 621,
+          "buyOutAmount": 721,
+          "gainOrLoss": 100
+        }
+      ]
+    },
+    {
+      "email": "s@sss.com",
+      "pass": "$2b$10$nMWf8ORjJsBNHmpgjkClr.v3FxHa4qsl153dTNl0VEY6mUiekB5oi",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": [
+        {
+          "buyInAmount": 24,
+          "buyOutAmount": 122200,
+          "gainOrLoss": 122176
+        }
+      ]
+    },
+    {
+      "email": "s@sss.com",
+      "pass": "$2b$10$8LiLCIOHLBos02KWcTiqNebDwBQX6grSA23vHWFb2Qn1LPaMTqEoy",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": {
+          "buyInAmount": 24,
+          "buyOutAmount": 122200,
+          "gainOrLoss": 122176
+        },
+        "gainOrLoss": null
+      },
+      "role": "user"
+    },
+    {
+      "_id": 123,
+      "email": "s@sss.com",
+      "pass": "$2b$10$IdIWAlBSdcaEshcTpNypU.nqHA1heasSI7hbG6XuowU0GuklfA3B2",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "user"
+    },
+    {
+      "_id": 123,
+      "email": "s@sss.com",
+      "pass": "$2b$10$ITOthSW4C2BHdMuovYhfSeBL.OjOY8ou8LVzz0GBQRrU0ZaEJhpfq",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "user"
+    },
+    {
+      "_id": 123,
+      "email": "s@admin.com",
+      "pass": "$2b$10$CmSXGrJcozE3XNOrXTLIeuXDwfrGcuFTjvNSyHceyH/w/vD20aLwK",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "admin"
+    }
+  ]
+}

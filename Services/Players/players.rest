@@ -1,0 +1,78 @@
+@host = http://localhost:5500/api/v1
+
+
+# ### Home page
+# GET {{host}}
+
+### Will differentiate different calls
+
+### Get All players
+GET {{host}}/players
+
+
+### Get Specific player 
+GET {{host}}/players/2
+
+
+
+### Make sure there is space between "Content-Type...." to the JSON
+POST {{host}}/players
+Content-Type: application/json
+
+{
+    "id": 123,
+    "email": "s@sss.com",
+    "pass": "testTTT",
+    "fName": "GioraTTT333T",
+    "lName": "Glova",
+    "buyInAmount": 24,
+    "buyOutAmount": 122200,
+    "role": "admin"
+}
+### CURRENT
+### LOGIN # USER
+POST {{host}}/players/login
+Content-Type: application/json
+
+{
+    "email": "s@sss.com",
+    "pass": "testTTT"
+}
+
+### LOGIN  ADMIN
+POST {{host}}/players/login
+Content-Type: application/json
+
+{
+    "email": "s@admin.com",
+    "pass": "testTTT"
+}
+
+
+###
+
+PUT {{host}}/players/24
+Content-Type: application/json
+
+{
+    "id": 123,
+    "fName": "GioraTTT333T",
+    "lName": "Glova",
+    "buyIn": 24,
+    "buyOut": 100
+}
+
+
+
+### Delete [X]
+DELETE {{host}}/players/13
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEyMywiZW1haWwiOiJzQGFkbWluLmNvbSIsImZOYW1lIjoiR2lvcmFUVFQzMzNUIiwibE5hbWUiOiJHbG92YSIsIkdhbWVTdGF0cyI6eyJidXlJbkFtb3VudCI6MjQsImJ1eU91dEFtb3VudCI6MTIyMjAwLCJnYWluT3JMb3NzIjoxMjIxNzZ9LCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDYzOTAwMjAsImV4cCI6MTc0NjM5MzYyMH0.Ys4A7p9CeyJzMwUJDjy7Nf4O0SQy9tc4CtilABRY9j0
+
+
+### Update [X]
+PUT {{host}}/players/5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEyMywiZW1haWwiOiJzQGFkbWluLmNvbSIsImZOYW1lIjoiR2lvcmFUVFQzMzNUIiwibE5hbWUiOiJHbG92YSIsIkdhbWVTdGF0cyI6eyJidXlJbkFtb3VudCI6MjQsImJ1eU91dEFtb3VudCI6MTIyMjAwLCJnYWluT3JMb3NzIjoxMjIxNzZ9LCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDYzOTAwMjAsImV4cCI6MTc0NjM5MzYyMH0.Ys4A7p9CeyJzMwUJDjy7Nf4O0SQy9tc4CtilABRY9j0
+
+{
+  "newFName": "UpdatedName"
+}

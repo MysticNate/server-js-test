@@ -1407,6 +1407,69 @@
         "gainOrLoss": 122176
       },
       "role": "admin"
+    },
+    {
+      "_id": 123,
+      "email": "t@tt.com",
+      "pass": "$2b$10$kx6jViJzSjl1W3TXjNboPeJ/6Dn0Q2EdMbgYYz1ewxSe341f7GoSi",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "admin"
+    },
+    {
+      "_id": 123,
+      "email": "t@tt.com",
+      "pass": "$2b$10$wWAiMnKLGv7d1LTOWeDNZumaCClrLJ0.thsE.9optffDl6NUEp/J2",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "admin"
+    },
+    {
+      "_id": 123,
+      "email": "t@tt.com",
+      "pass": "$2b$10$9sY2MK6bIN9iMtjjgLDkZOuGZOrFmARdsVRe1lvC54Y5ScqzaSpNu",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "admin"
+    },
+    {
+      "_id": 123,
+      "email": "t@tt.com",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "admin"
+    },
+    {
+      "_id": 123,
+      "email": "t@tt.com",
+      "fName": "GioraTTT333T",
+      "lName": "Glova",
+      "GameStats": {
+        "buyInAmount": 24,
+        "buyOutAmount": 122200,
+        "gainOrLoss": 122176
+      },
+      "role": "admin"
     }
   ]
 }

@@ -11,7 +11,7 @@ GET {{host}}/players
 
 
 ### Get Specific player 
-GET {{host}}/players/2
+GET {{host}}/players/12
 
 
 
@@ -20,8 +20,8 @@ POST {{host}}/players
 Content-Type: application/json
 
 {
-    "id": 123,
-    "email": "s@sss.com",
+    "id": 124,
+    "email": "t@tt.com",
     "pass": "testTTT",
     "fName": "GioraTTT333T",
     "lName": "Glova",
@@ -35,17 +35,27 @@ POST {{host}}/players/login
 Content-Type: application/json
 
 {
-    "email": "s@sss.com",
+    "email": "YonatanFriedman@google.com",
+    "pass": "Yonatan_1"
+}
+
+### LOGIN # USER
+POST {{host}}/players/login
+Content-Type: application/json
+
+{
+    "email": "t@tt.com",
     "pass": "testTTT"
 }
+
 
 ### LOGIN  ADMIN
 POST {{host}}/players/login
 Content-Type: application/json
 
 {
-    "email": "s@admin.com",
-    "pass": "testTTT"
+    "email": "YonatanKatz@gmail.com",
+    "pass": "Yonatan_1"
 }
 
 
@@ -65,14 +75,16 @@ Content-Type: application/json
 
 
 ### Delete [X]
-DELETE {{host}}/players/13
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEyMywiZW1haWwiOiJzQGFkbWluLmNvbSIsImZOYW1lIjoiR2lvcmFUVFQzMzNUIiwibE5hbWUiOiJHbG92YSIsIkdhbWVTdGF0cyI6eyJidXlJbkFtb3VudCI6MjQsImJ1eU91dEFtb3VudCI6MTIyMjAwLCJnYWluT3JMb3NzIjoxMjIxNzZ9LCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDYzOTAwMjAsImV4cCI6MTc0NjM5MzYyMH0.Ys4A7p9CeyJzMwUJDjy7Nf4O0SQy9tc4CtilABRY9j0
+DELETE {{host}}/players/123
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsImVtYWlsIjoiWW9uYXRhbkthdHpAZ21haWwuY29tIiwiZk5hbWUiOiJZb25hdGFuIiwibE5hbWUiOiJLYXR6IiwiR2FtZVN0YXRzIjp7ImJ1eUluQW1vdW50Ijo1NDEsImJ1eU91dEFtb3VudCI6ODYwLCJnYWluT3JMb3NzIjozMTl9LCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDcwNDYyMzEsImV4cCI6MTc0NzA0OTgzMX0.-Bt8fkGDwTFSOJ75-Du2A92y_hDzI08gHPXlNL8K6_E
 
 
-### Update [X]
-PUT {{host}}/players/5
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEyMywiZW1haWwiOiJzQGFkbWluLmNvbSIsImZOYW1lIjoiR2lvcmFUVFQzMzNUIiwibE5hbWUiOiJHbG92YSIsIkdhbWVTdGF0cyI6eyJidXlJbkFtb3VudCI6MjQsImJ1eU91dEFtb3VudCI6MTIyMjAwLCJnYWluT3JMb3NzIjoxMjIxNzZ9LCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDYzOTAwMjAsImV4cCI6MTc0NjM5MzYyMH0.Ys4A7p9CeyJzMwUJDjy7Nf4O0SQy9tc4CtilABRY9j0
+### Update NAME ONLY
+PUT {{host}}/players/2
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOjEsImVtYWlsIjoiWW9uYXRhbkthdHpAZ21haWwuY29tIiwiZk5hbWUiOiJZb25hdGFuIiwibE5hbWUiOiJLYXR6IiwiR2FtZVN0YXRzIjp7ImJ1eUluQW1vdW50Ijo1NDEsImJ1eU91dEFtb3VudCI6ODYwLCJnYWluT3JMb3NzIjozMTl9LCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDcwNDYyMzEsImV4cCI6MTc0NzA0OTgzMX0.-Bt8fkGDwTFSOJ75-Du2A92y_hDzI08gHPXlNL8K6_E
+Content-Type: application/json
 
 {
-  "newFName": "UpdatedName"
+  "fName": "UpdatedName"
 }
+

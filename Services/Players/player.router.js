@@ -10,7 +10,7 @@ playerRouter
   .get("/:id", ctrl.getPlayerById)
   .post("/", ctrl.createNewPlayer)
   .post("/login", ctrl.loginUser)
-  .put("/:id", ctrl.updatePlayer)
+  .put("/:id", auth, ctrl.updatePlayer)
   .delete("/:id", auth, ctrl.deletePlayer);
 
 // Default exportation allows to not use '{}' when importing.
